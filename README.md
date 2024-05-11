@@ -1,5 +1,6 @@
 ### YouTube Ad Blocker Readme
 
+--------------------------------
 
 #### Description:
 The YouTube Ad Blocker is a lightweight and efficient JavaScript script designed to remove ads from YouTube. It seamlessly eliminates interface and video ads, including those pesky 6-second ads, providing users with a smoother viewing experience.
