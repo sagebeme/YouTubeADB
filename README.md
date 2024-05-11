@@ -38,5 +38,3 @@ This script is released under the MIT License. You are free to modify and distri
 ---
 
 Thank you for using the YouTube Ad Blocker script! Enjoy an ad-free YouTube experience.
-
->>>>>>> 5613f024ef6fd5b2666309a3a2186e535161b5eb
